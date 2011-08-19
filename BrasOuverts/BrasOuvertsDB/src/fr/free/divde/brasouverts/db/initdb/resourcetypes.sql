@@ -1,0 +1,16 @@
+INSERT INTO RESOURCETYPE(ID,NAME,TYPE) VALUES 
+(1,'Salaire', 1),
+(2,'Alloc. Fam.', 1),
+(3,'Alloc. Hand.', 1),
+(4,'Alloc. SS', 1),
+(5,'Pension alim.', 1),
+(6,'Autre pension', 1),
+(7,'RSA', 1),
+(8,'Alloc. Log.', 1),
+(9,'Alloc. P.I.', 1),
+(10,'Assedic', 1),
+(11,'Retraite', 1),
+(12,'Autre (entrée)', 1),
+(13,'Impôts', -1),
+(14,'Loyer', -1),
+(15,'Autre (charge)', -1);

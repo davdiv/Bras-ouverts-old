@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: fr.free.divde.brasouverts.libraries.mysql
+OpenIDE-Module-Localizing-Bundle: fr/free/divde/brasouverts/libraries/mysql/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

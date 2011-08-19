@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: false
+OpenIDE-Module: fr.free.divde.brasouverts.branding
+OpenIDE-Module-Layer: fr/free/divde/brasouverts/branding/layer.xml
+OpenIDE-Module-Localizing-Bundle: fr/free/divde/brasouverts/branding/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
