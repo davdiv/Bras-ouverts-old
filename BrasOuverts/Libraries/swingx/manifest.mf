@@ -1,6 +1,0 @@
-Manifest-Version: 1.0
-AutoUpdate-Show-In-Client: true
-OpenIDE-Module: fr.free.divde.brasouverts.libraries.swingx
-OpenIDE-Module-Localizing-Bundle: fr/free/divde/brasouverts/libraries/swingx/Bundle.properties
-OpenIDE-Module-Specification-Version: 1.0
-

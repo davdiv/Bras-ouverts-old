@@ -1,5 +1,0 @@
-Manifest-Version: 1.0
-OpenIDE-Module: fr.free.divde.brasouverts.libraries.sqltool
-OpenIDE-Module-Localizing-Bundle: fr/free/divde/brasouverts/libraries/sqltool/Bundle.properties
-OpenIDE-Module-Specification-Version: 1.0
-

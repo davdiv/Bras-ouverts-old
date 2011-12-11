@@ -1,12 +1,3 @@
-/test/
-/BrasOuverts/build/
-/BrasOuverts/dist/
-/BrasOuverts/nbproject/private/
-/BrasOuverts/*/build/
-/BrasOuverts/*/dist/
-/BrasOuverts/*/nbproject/private/
-/BrasOuverts/Libraries/*/build/
-/BrasOuverts/Libraries/*/dist/
-/BrasOuverts/Libraries/*/nbproject/private/
+/BrasOuverts/*/target
 /FixNetbeansBranding/build/
 /FixNetbeansBranding/dist/

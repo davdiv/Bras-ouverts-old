@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: fr.free.divde.brasouverts.db
+OpenIDE-Module-Localizing-Bundle: fr/free/divde/brasouverts/db/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+JPA-PersistenceUnits: BrasOuvertsDBPU

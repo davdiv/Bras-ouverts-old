@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: fr/free/divde/brasouverts/extlibs/Bundle.properties
+OpenIDE-Module-Layer: fr/free/divde/brasouverts/extlibs/layer.xml

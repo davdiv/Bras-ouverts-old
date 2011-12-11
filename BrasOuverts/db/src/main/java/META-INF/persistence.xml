@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.0" xmlns="http://java.sun.com/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/persistence http://java.sun.com/xml/ns/persistence/persistence_2_0.xsd">
+    <persistence-unit name="BrasOuvertsDBPU" transaction-type="RESOURCE_LOCAL">
+        <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
+        <class>fr.free.divde.brasouverts.db.model.DBVersion</class>
+        <class>fr.free.divde.brasouverts.db.model.Person</class>
+        <class>fr.free.divde.brasouverts.db.model.Family</class>
+        <class>fr.free.divde.brasouverts.db.model.Image</class>
+        <class>fr.free.divde.brasouverts.db.model.PersonalCard</class>
+        <class>fr.free.divde.brasouverts.db.model.Country</class>
+        <class>fr.free.divde.brasouverts.db.model.ResourceType</class>
+        <class>fr.free.divde.brasouverts.db.model.Resource</class>
+        <class>fr.free.divde.brasouverts.db.model.Visit</class>
+        <class>fr.free.divde.brasouverts.db.model.BoughtProduct</class>
+        <class>fr.free.divde.brasouverts.db.model.Product</class>
+        <properties>
+            <property name="eclipselink.ddl-generation" value="create-tables"/>
+            <property name="eclipselink.weaving" value="static" />
+        </properties>
+    </persistence-unit>
+</persistence>
